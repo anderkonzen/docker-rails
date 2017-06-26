@@ -2,7 +2,7 @@
 
 # Docker Rails
 
-This repo contains **Dockerfiles** for different Ruby and Rails versions. :lollipop:
+This repo contains **Dockerfiles** for different Ruby and Rails versions.
 
 ## Use Cases
 
